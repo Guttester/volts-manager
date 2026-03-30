@@ -43,3 +43,4 @@ Cada módulo possui um README próprio com instruções de instalação, execuç
 O projeto evolui por versões, com adição contínua de funcionalidades e melhorias.
 
 ### Versões:
+* **v0.0.1** - BackEnd: CRUD User/Product
